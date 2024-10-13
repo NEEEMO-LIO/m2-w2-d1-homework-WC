@@ -92,7 +92,7 @@ footer {
 @media (min-width: 600px) {
   .cards {
       display: grid;
-      grid-template-columns: 1fr 1fr; /* Two columns layout */
+      grid-template-columns: 1fr 1fr; /* 2 columns layout */
       gap: 20px;
   }
 }
